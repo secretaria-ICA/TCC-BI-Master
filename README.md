@@ -1,4 +1,4 @@
-# Business Intelligence Aplicado a Pequenos Negócios Digitais: Um Estudo de Caso
+# Business_Intelligence_Aplicado_a_Pequenos_Negocios_Digitais_Um_Estudo_de_Caso
 
 #### Aluno: [Daniel Luiz Silva de Oliveira]( https://github.com/daniellsoliveira)
 #### Orientador(/a/es/as): [Anderson Nascimento](https://github.com/insightds) 
